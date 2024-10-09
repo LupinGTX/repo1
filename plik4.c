@@ -2,6 +2,6 @@
 
 int main(void)
 {
-        printf("I walk\n");
+        printf("There's something inside me\nIt's hard to explain\n");
         return 0;
 }
